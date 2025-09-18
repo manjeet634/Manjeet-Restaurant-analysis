@@ -195,10 +195,10 @@ Food_Rating_Category = SWITCH(
     The top five restaurants with high customer satisfaction ratings are Tortas Locas Hipocampo, where most consumers are highly satisfied, and Puesto de Tacos, which has received 30 highly satisfied consumer ratings. Cafeteria y Restaurante El Pacífico follows closely with 24 consumers rating it as highly satisfactory, while La Cantina Restaurante boasts 28 highly satisfied ratings. Rounding out the list, Restaurant la Chalita has garnered 20 high satisfaction ratings from its customers.
   
 ## Dashboard
-![Restaurant Ratings Analysis_page-0001](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/d60cc2b1-5067-4806-8163-bad81914dbd8)
-![Restaurant Ratings Analysis_page-0002](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/d31ff0e5-fe29-4d03-80b7-c86f6ee4a665)
-![Restaurant Ratings Analysis_page-0003](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/e5d81101-0b31-4969-8556-904dcf398737)
-![Restaurant Ratings Analysis_page-0004](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/800542ef-077e-4ed1-947e-b3e3cd7b825d)
-![Restaurant Ratings Analysis_page-0005](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/55afce3c-8178-4868-9269-0c4e716d8110)
+![Restaurant Ratings Analysis_page-0001](https://github.com/Manjeet/Restaurant-Ratings-Analysis/assets/116041695/d60cc2b1-5067-4806-8163-bad81914dbd8)
+![Restaurant Ratings Analysis_page-0002](https://github.com/Manjeet/Restaurant-Ratings-Analysis/assets/116041695/d31ff0e5-fe29-4d03-80b7-c86f6ee4a665)
+![Restaurant Ratings Analysis_page-0003](https://github.com/Manjeet/Restaurant-Ratings-Analysis/assets/116041695/e5d81101-0b31-4969-8556-904dcf398737)
+![Restaurant Ratings Analysis_page-0004](https://github.com/Manjeet/Restaurant-Ratings-Analysis/assets/116041695/800542ef-077e-4ed1-947e-b3e3cd7b825d)
+![Restaurant Ratings Analysis_page-0005](https://github.com/Manjeet/Restaurant-Ratings-Analysis/assets/116041695/55afce3c-8178-4868-9269-0c4e716d8110)
 
 
